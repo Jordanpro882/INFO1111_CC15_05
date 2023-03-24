@@ -7,7 +7,7 @@ test2:
 	touch test2
 
 
-filename=INFO1111_Group_Project_CC15-05
+filename=INFO1111_Group_Project
 bibfile=main.bib
 
 pdf: ${filename}.pdf
