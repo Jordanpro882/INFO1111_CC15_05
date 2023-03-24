@@ -1,0 +1,304 @@
+\documentclass[a4paper, 11pt]{report}
+\usepackage{blindtext}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{geometry}
+\usepackage{fix-cm}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+
+\usepackage[english]{babel}
+
+\geometry{ margin=30mm }
+\counterwithin{subsection}{section}
+\renewcommand\thesection{\arabic{section}.}
+\renewcommand\thesubsection{\thesection\arabic{subsection}.}
+\usepackage{tocloft}
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\setlength{\cftsecindent}{2.2em}
+\setlength{\cftsubsecindent}{4.2em}
+\setlength{\cftsecnumwidth}{2em}
+\setlength{\cftsubsecnumwidth}{2.5em}
+
+
+\begin{document}
+\titleformat{\section}
+{\normalfont\fontsize{15}{0}\bfseries}{\thesection}{1em}{}
+\titlespacing{\section}{0cm}{0.5cm}{0.15cm}
+\titleformat{\subsection}
+{\normalfont\fontsize{13}{0}\bfseries}{\thesubsection}{0.5em}{}
+\titlespacing{\section}{0cm}{0.5cm}{0.15cm}
+
+%=======================================================================================
+
+% #########################
+% IMPORTANT - Add student names here!
+% e.g. \newcommand{\stud1}{LOWE, David}
+\newcommand{\studA}{{FAMNAME1, givenName1}}
+\newcommand{\studB}{{FAMNAME2, givenName2}}
+\newcommand{\studC}{{FAMNAME3, givenName3}}
+\newcommand{\studD}{{FAMNAME4, givenName4}}
+%
+% IMPORTANT - Then give your SIDs
+\newcommand{\sidA}{{01234567}}
+\newcommand{\sidB}{{01234567}}
+\newcommand{\sidC}{{01234567}}
+\newcommand{\sidD}{{01234567}}
+%
+% IMPORTANT - And then update which major each student will focus on
+\newcommand{\majA}{{Computer Science}}
+\newcommand{\majB}{{Data Science}}
+\newcommand{\majC}{{SW Development}}
+\newcommand{\majD}{{Cyber Security}}
+% #########################
+
+
+\pagenumbering{Alph}
+\begin{titlepage}
+\begin{flushright}
+\includegraphics[width=4cm]{USyd}\\[2cm]
+\end{flushright}
+\center 
+\textbf{\huge INFO1111: Computing 1A Professionalism}\\[0.75cm]
+\textbf{\huge 2023 Semester 1}\\[2cm]
+\textbf{\huge Skills: Team Project Report}\\[3cm]
+
+\textbf{\huge Submission number: ??}\\[0.75cm]
+\textbf{Github link: ??}\\[0.75cm]
+\textbf{\huge Team Members:}\\[0.75cm]
+
+\begin{tabular}{|p{0.25\textwidth}|p{0.13\textwidth}|p{0.12\textwidth}|p{0.12\textwidth}|p{0.22\textwidth}|}
+	\hline
+	Name & Student ID & \raggedright{Levels already achieved} & \raggedright{Levels being attempted} & Selected Major \\
+	\hline
+	\hline
+	\raggedright{\studA} & \sidA & X & ?? & \majA \\
+	\raggedright{\studB} & \sidB & X & ?? & \majB \\
+	\raggedright{\studC} & \sidC & X & ?? & \majC \\
+	\raggedright{\studD} & \sidD & X & ?? & \majD \\
+	\hline
+\end{tabular}
+\thispagestyle{empty}
+\end{titlepage}
+\pagenumbering{arabic}
+
+
+%=======================================================================================
+
+\tableofcontents
+
+%=======================================================================================
+
+\newpage
+\section*{Instructions}
+
+\textbf{Important}: This section should be removed prior to submission.
+
+You should use this \LaTeX\ template to generate your team project report. Keep in mind the following key points:
+\begin{itemize}
+	\item \textbf{Selecting a major}: Each team member must select one of the computing degree majors (a different one for each student) - i.e. Computer Science; Data Science; Software Development; Cyber Security. If there are more than four members in your team then your tutor will suggest a fifth alternative. The choice for each student should be included in the table on the cover page.
+	\item \textbf{Teamwork}: Whilst the team project is just that -- a team project -- it has been designed to also allow different members of the team to achieve different outcomes. We do expect you to work together as a team -- i.e. your team can only submit a single report. There will be some sections that need to be worked on as a team, and some sections that are done individually. This means that your team will need to collaborate to combine your individual components for each submission. This collaborative aspect is a requirement at all levels. The only exception to this is where a member of the team has already achieved the level they are targeting in a previous submission and has decided to not attempt higher levels, and so is not contributing anything further (this should be obvious because no level is indicated for that student on the cover page).
+	\item \textbf{Team problems}: If you do come across problems working together then the first step should be to discuss this with your tutor. You should do this as soon as possible, and not wait until it is too late for your tutor to address any problems.
+	\item \textbf{Choosing Levels}: Whilst the report is compiled as a team, for each submission each team member can individually attempt zero, one, or two levels (though you need to achieve lower levels before being assessed for higher levels). Each team member will then be individually assessed for the levels they have attempted. For example, in the first submission one team member just attempted level A and the other three all attempted both A and B. For the one who attempted only level A, they were not successful in achieving that level. In the second submission, they then reattempted level A (successful) and this time also attempted level B (not successful). For the third and final submission they could reattempt just level B, or levels B and C - or even just choose to not submit anything further and remain at level A).
+	\item \textbf{Minimum requirement}: Remember that in order to pass the unit, you must achieve at least level A by the end of the third submission.
+	\item \textbf{Assessment}: In order to achieve level B, you must first have achieved level A, and so on for each level up to level D. This means that we will not assess a higher level until a lower level has been achieved (though we will review one level higher and give you feedback to help you in refining your work).
+	\item \textbf{Using this template}: When completing each section you should remove the explanation text and replace it with your material. For each submission, as a team you must complete the relevant subsection within~\ref{sect-team}, and then each individual must complete their subsections within the relevant Level sections.
+	\item \textbf{Referencing}: You should also ensure that any resources you use are suitably referenced, and references are included into the reference list at the end of this document. You should use the IEEE reference style \cite{usyd2} (the reference included here shows you how this can be easily achieved).
+\end{itemize}
+
+
+%=======================================================================================
+
+\newpage
+\section{Teamwork}
+\label{sect-team}
+
+Each of the following subsections should be completed as a team.
+
+\subsection{Developing industry skills}
+
+This section is completed as a team, and must be satisfactory in order for each team member to be able to achieve level A.\\
+Throughout your Computing degree we will help you learn a range of new skills. Once you graduate however you will need to continue to learn new languages, new tools, new applications, etc. For this section you need to identify 5 approaches you can take to this continual learning. You should then put these in order from most effective to least effective, and for each one explain the circumstances in which it might be appropriate. (Target = $\sim$100 words per skill = $\sim$500 words total).
+
+\subsection{Submission 1 contribution overview}
+
+For submission 1, outline the approach taken to your teamwork, how you combined the various contributions, and whether there was any significant variations in the levels of involvement. (Target = $\sim$100-300 words).
+
+\subsection{Submission 2 contribution overview}
+
+As above, but completed for submission 2
+
+\subsection{Submission 3 contribution overview}
+
+As above, but completed for submission 3
+
+
+%=======================================================================================
+
+\newpage
+\section{Level A: Basic Skills}
+
+Level A focuses on basic technical skills (related to \LaTeX\ and Git) and the types of skills used in different computing jobs. Each member of the team should individually complete their subsection below. You should begin by allocating to each team member a different major to focus on (i.e. one of: Computer Science; Data Science; Software Development; Cyber Security). \textit{If you have a fifth member, then your tutor will suggest a fifth topic to cover}. This allocation should be specified above (see lines 36-55 in the LaTeX file).
+
+You should then begin by looking at the list of skills identified within SFIA (Skills Framework for the Information Age)~\cite{sfia}. Then select two skills from the complete list:
+\begin{enumerate}
+	\item The skill in which you believe you are currently the strongest and which is relevant to the major you have selected. You should explain why this skill is necessary for that major, and what evidence you currently have that demonstrates your strength in this area. (Target = 200-400 words).
+	\item The skill in which you believe you are currently the weakest but which is important to the major you have selected. You should explain why this skill is necessary for that major, and what you can do to improve your capability in this area. (Target = 200-400 words).
+\end{enumerate}
+
+You will need to integrate your information into the shared collaborative LaTeX document and compile the result.
+
+\subsection{Skills for \majA: \studA}
+
+Your text goes here
+
+\subsection{Skills for \majB: \studB}
+
+Your text goes here
+
+\subsection{Skills for \majC: \studC}
+
+Your text goes here
+
+\subsection{Skills for \majD: \studD}
+
+Your text goes here
+
+
+%=======================================================================================
+
+\newpage
+\section{Level B: Tools}
+
+Level B focuses on exploration of key tools used within professional computing employment. All companies make use of a range of technologies and tools (often as part of a tech stack). These tools might be implementation languages; design tools; data analysis tools; collaboration technologies, etc. Each student should identify two tools that are widely used in industry and which relate to the major you are focusing on for this project. You should then describe:
+\begin{enumerate}
+	\item The main functionality of those tools;
+	\item The ways in which those tools are used;
+	\item Any weaknesses or limitations of those tools.
+\end{enumerate}
+
+As examples (which you shouldn't now use): Computer Science: eclipse; Software Development: github; Cyber Security: Wireshark; Data Science: Hadoop.
+
+Note also that no two students in the same tutorial should choose the same tools, so your tutor will maintain a list of those that have already been selected. You should therefore check this list and then confirm your choice with your tutor prior to researching your proposed tools and spending time writing about them. (Target = $\sim$200-400 words per tool).
+
+Also, in order to achieve level B each student needs to be able to demonstrate capability with git and compilation of LaTeX documents from the command line. To demonstrate this, your team (or at least those members who are aiming to attempt level B) should do the following:
+\begin{enumerate}
+	\item Select one member to:
+	\begin{enumerate}
+		\item Create a local github repository for the project. This repository should contain the main LaTeX documents, as well as a subdirectory called ''screengrabs'';
+		\item Create a repository on github for the project;
+		\item Connect your local repository to the remote github repo;
+		\item Push your local repository contents to the remote repo;
+		\item Add all team members (and your tutor and unit coordinator) as members to the remote repo;
+	\end{enumerate}
+	\item Each additional group member should then clone the remote repo;
+	\item Each member aiming to achieve level B should then be able to use the remote repo (and pushing and pulling changes) to demonstrate collaborative editing of the LaTeX documents.
+	\item And each member aiming to achieve level B should also do a screengrab (or multiple screengrabs) showing their local successful compilation, on the command line, of the final LaTeX document. This should be added to the screengrabs folder in your local repo and then pushed to the remote repo so that your tutor can view it.
+\end{enumerate}
+
+\subsection{Tools for \majA: \studA}
+
+Your text goes here
+
+\subsection{Tools for \majB: \studB}
+
+Your text goes here
+
+\subsection{Tools for \majC: \studC}
+
+Your text goes here
+
+\subsection{Tools for \majD: \studD}
+
+Your text goes here
+
+
+%=======================================================================================
+
+\newpage
+\section{Level C: Advanced Skills}
+
+Level C focuses on more advanced technical skills in \LaTeX\ and Git.
+
+The following is a list of advanced Git and \LaTeX\ skills/features. Each student in your team should select a different pair of items from each list (e.g. you might choose "Resetting and Tags" from the git list, and "Cross-referencing and Custom commands" from the LateX list). You then need to demonstrate actual use of each item (either through activity in Git, or through including items in this report). (Target = $\sim$100-200 words per student for each feature).
+\begin{itemize}
+	\item Git
+	\begin{itemize}
+		\item Rebasing and Ignoring files
+		\item Forking and Special files
+		\item Resetting and Tags
+		\item Reverting and Automated merges
+		\item Hooks and Tags
+	\end{itemize}
+	\item \LaTeX\ 
+	\begin{itemize}
+		\item Cross-referencing and Custom commands
+		\item Footnotes/margin notes and creating new environments
+		\item Floating figures and editing style sheets
+		\item Graphics and advanced mathematical equations
+		\item Macros and hyperlinks
+	\end{itemize}
+\end{itemize}
+
+\subsection{Advanced skills: \studA}
+
+Explain your use of the advanced Git and \LaTeX\ features. 
+
+\subsection{Advanced skills: \studB}
+
+Explain your use of the advanced Git and \LaTeX\ features. 
+
+\subsection{Advanced skills: \studC}
+
+Explain your use of the advanced Git and \LaTeX\ features. 
+
+\subsection{Advanced skills: \studD}
+
+Explain your use of the advanced Git and \LaTeX\ features. 
+
+
+
+%=======================================================================================
+
+\newpage
+\section{Level D: Evolution of skills}
+
+Level D focuses on understanding how professional practice might evolve in the future. Most students in this unit are likely to be at or near the start of your degree, and so it might be anywhere from 3 to 5 years before you really start working in industry full-time -- and the technology and ways in which people use them can change significantly in that time. 
+
+Your answer to this section you should address the following (Target = $\sim$500 words):
+\begin{enumerate}
+	\item Describe what you believe will be the biggest change in the next 5 years in the tools or technologies that are being actively used in industry practice (in your selected major);
+	\item Revisit the SFIA framework~\cite{sfia} from level A, and identify the one skill that you believe will have the biggest increase in terms of importance over the next 5 years. You should justify your choice.
+\end{enumerate}
+
+
+\subsection{Evolution of \majA: \studA}
+
+Your text goes here
+
+\subsection{Evolution of \majB: \studB}
+
+Your text goes here
+
+\subsection{Evolution of \majC: \studC}
+
+Your text goes here
+
+\subsection{Evolution of \majD: \studD}
+
+Your text goes here
+
+
+
+%=======================================================================================
+
+\newpage
+
+\bibliographystyle{ieeetran}
+\bibliography{main}
+
+\end{document}
+\end{report}
