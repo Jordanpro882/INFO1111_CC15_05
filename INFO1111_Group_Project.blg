@@ -2,14 +2,14 @@ This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: INFO1111_Group_Project.aux
 I couldn't open style file ieeetran.bst
----line 48 of file INFO1111_Group_Project.aux
+---line 47 of file INFO1111_Group_Project.aux
  : \bibstyle{ieeetran
  :                   }
 I'm skipping whatever remains of this command
 I found no style file---while reading file INFO1111_Group_Project.aux
-You've used 2 entries,
+You've used 1 entry,
             0 wiz_defined-function locations,
-            87 strings with 539 characters,
+            86 strings with 534 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0
