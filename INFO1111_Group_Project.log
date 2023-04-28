@@ -1,17 +1,17 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.3.30)  28 APR 2023 20:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.3.17)  28 APR 2023 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./INFO1111_Group_Project.tex
 (INFO1111_Group_Project.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22>
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/report.cls
+L3 programming layer <2023-02-07>
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/size11.clo
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -27,12 +27,12 @@ File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-lindtext/blindtext.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/t
-ools/xspace.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count194
@@ -54,18 +54,18 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count276
 \c@blind@pangrammax=\count277
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/fontenc.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/inputenc.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/t
-itlesec/titlesec.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip50
@@ -77,8 +77,8 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidthlast=\dimen144
 \titlewidthfirst=\dimen145
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/f
-ancyhdr/fancyhdr.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip52
@@ -91,21 +91,21 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-eometry/geometry.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-raphics/keyval.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/iftex/ifvtex.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/iftex/iftex.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count278
@@ -121,76 +121,76 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen153
 \Gm@dimlist=\toks20
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-eometry/geometry.cfg))
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/fix-cm.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+geometry/geometry.cfg))
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/ts1enc.def
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/h
-yperref/hyperref.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/ltxcmds/ltxcmds.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/pdftexcmds/pdftexcmds.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/infwarerr/infwarerr.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
-vsetkeys/kvsetkeys.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/kvdefinekeys/kvdefinekeys.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/pdfescape/pdfescape.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/h
-ycolor/hycolor.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l
-etltxmacro/letltxmacro.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/a
-uxhook/auxhook.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/h
-yperref/nameref.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+hyperref/nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/r
-efcount/refcount.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/gettitlestring/gettitlestring.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/k
-voptions/kvoptions.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count281
@@ -199,24 +199,24 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count282
 \Hy@pagecounter=\count283
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/h
-yperref/pd1enc.def
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/intcalc/intcalc.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/etexcmds/etexcmds.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count284
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/h
-yperref/puenc.def
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -230,20 +230,20 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count285
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/u
-rl/url.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen155
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/bitset/bitset.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/bigintcalc/bigintcalc.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -258,8 +258,8 @@ Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/atbegshi-ltx.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -269,12 +269,12 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/h
-yperref/hpdftex.def
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+hyperref/hpdftex.def
 File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-ase/atveryend-ltx.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -282,12 +282,12 @@ with kernel methods
 \Fld@listcount=\count290
 \c@bookmark@seq@number=\count291
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/r
-erunfilecheck/rerunfilecheck.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/uniquecounter/uniquecounter.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -295,40 +295,40 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip61
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-raphics/graphicx.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-raphics/graphics.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-raphics/trig.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-raphics-cfg/graphics.cfg
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/g
-raphics-def/pdftex.def
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/babel/babel.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/babel/babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count292
 \U@D=\dimen160
-\l@unhyphenated=\language79
+\l@unhyphenated=\language1
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/babel/txtbabel.def)
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count293
 
@@ -336,28 +336,22 @@ Package: babel 2023/02/13 3.86 The Babel package
 * Local config file bblopts.cfg used
 *
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/a
-rabi/bblopts.cfg
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+arabi/bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/b
-abel-english/english.ldf
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
 ))
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/generic
-/babel/locale/en/babel-english.tex
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
+c/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/t
-ocloft/tocloft.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip62
@@ -397,8 +391,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabindent=\skip94
 \cfttabnumwidth=\skip95
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l
-3backend/l3backend-pdftex.def
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count296
 \l__pdf_internal_box=\box52
@@ -464,8 +458,8 @@ Package hyperref Info: Link coloring OFF on input line 27.
 \openout3 = `INFO1111_Group_Project.out'.
 
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/context
-/base/mkii/supp-pdf.mkii
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/contex
+t/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count297
 \scratchdimen=\dimen161
@@ -479,14 +473,14 @@ Package hyperref Info: Link coloring OFF on input line 27.
 \makeMPintoPDFobject=\count302
 \everyMPtoPDFconversion=\toks22
 )
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/e
-pstopdf-pkg/epstopdf-base.sty
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/Users/chloedang/Library/Application Support/MiKTeX/texmfs/install/tex/latex/0
-0miktex/epstopdf-sys.cfg
+(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
+00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 <USyd.jpg, id=103, 257.46187pt x 89.58469pt>
@@ -502,64 +496,154 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 73.
  [1
 
-{/Users/chloedang/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdft
-ex/pdftex.map} <./USyd.jpg>]
+{/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdf
+tex/pdftex.map} <./USyd.jpg>]
 (INFO1111_Group_Project.toc)
 \tf@toc=\write4
 \openout4 = `INFO1111_Group_Project.toc'.
 
- [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
-[12] [13] (INFO1111_Group_Project.bbl
+ [1]
+Overfull \hbox (17.76146pt too wide) in paragraph at lines 105--106
+[]\T1/cmr/m/n/10.95 Online study courses are most appropriate for when someone 
+wants to gain a comprehensive
+ []
+
+
+Overfull \hbox (9.90437pt too wide) in paragraph at lines 109--110
+\T1/cmr/m/n/10.95 language. Coding tutorials and other similar videos give a gr
+eat foundation for understanding
+ []
+
+[2] [3]
+Overfull \hbox (36.0968pt too wide) in paragraph at lines 150--151
+\T1/cmr/m/n/10.95 landscape is rapidly changing, with evermore products, progra
+mming languages and methodologies
+ []
+
+
+Overfull \hbox (0.12277pt too wide) in paragraph at lines 152--153
+\T1/cmr/m/n/10.95 technology worked, and spent time researching the implication
+s that it and other generative
+ []
+
+[4]
+
+LaTeX Warning: Citation `Research' on page 5 undefined on input line 169.
+
+
+LaTeX Warning: Citation `Violino' on page 5 undefined on input line 170.
+
+
+LaTeX Warning: Citation `Research' on page 5 undefined on input line 170.
+
+
+Overfull \hbox (4.74506pt too wide) in paragraph at lines 173--174
+[]\T1/cmr/m/n/10.95 Throughout my schooling, I have developed the sound researc
+h skills needed to formulate
+ []
+
+
+LaTeX Warning: Citation `stats' on page 5 undefined on input line 176.
+
+
+LaTeX Warning: Citation `data' on page 5 undefined on input line 178.
+
+[5]
+Overfull \hbox (8.48526pt too wide) in paragraph at lines 190--191
+\T1/cmr/m/n/10.95 factors for a high-quality and reliable product need continua
+l assistance post the development
+ []
+
+[6]
+Overfull \hbox (13.73863pt too wide) in paragraph at lines 199--200
+[]\T1/cmr/m/n/10.95 The notion of computational thinking (ie. the thought proce
+ss of systematically formulating
+ []
+
+
+Overfull \hbox (1.7649pt too wide) in paragraph at lines 202--203
+\T1/cmr/m/n/10.95 adversaries may attack a system or network is vital to produc
+tive preparation and successful
+ []
+
+[7]
+Overfull \hbox (3.40967pt too wide) in paragraph at lines 209--210
+[]\T1/cmr/m/n/10.95 Evaluating how effective defences/mitigation controls (eith
+er current or future) withstand
+ []
+
+[8]
+Overfull \hbox (18.18591pt too wide) in paragraph at lines 226--227
+[]\T1/cmr/m/n/10.95 Level B focuses on exploration of key tools used within pro
+fessional computing employment.
+ []
+
+[9]
+Overfull \hbox (22.85872pt too wide) in paragraph at lines 270--271
+\T1/cmr/m/n/10.95 various applications [[]]. The TensorFlow framework inputs da
+ta in the form of multidimensional
+ []
+
+[10]
+Overfull \hbox (16.80724pt too wide) in paragraph at lines 276--277
+\T1/cmr/m/n/10.95 working in the field of artificial intelligence. However, its
+ complexity and resource requirements
+ []
+
+[11] [12] [13] (INFO1111_Group_Project.bbl
 Underfull \hbox (badness 1852) in paragraph at lines 29--32
-[]\T1/cmr/m/n/10.95 National In-sti-tute of Biomed-i-cal Imag-ing and Bio-engi-
-neer-ing, ``Com-pu-ta-tional
+[]\T1/cmr/m/n/10.95 National Institute of Biomedical Imaging and Bioengineering
+, ``Computational
  []
 
 
 Underfull \hbox (badness 3536) in paragraph at lines 54--56
-[]\T1/cmr/m/n/10.95 NVIDIA Cor-po-ra-tion, ``Ten-sor-flow,'' 2023, see []$https
- : / / www . nvidia . com / en-[]us /
+[]\T1/cmr/m/n/10.95 NVIDIA Corporation, ``Tensorflow,'' 2023, see []$https : / 
+/ www . nvidia . com / en-[]us /
  []
 
 
 Underfull \hbox (badness 2126) in paragraph at lines 58--60
-[]\T1/cmr/m/n/10.95 IBM, ``What are neu-ral net-works?'' 2023, see []$https : /
- / www . ibm . com / topics /
+[]\T1/cmr/m/n/10.95 IBM, ``What are neural networks?'' 2023, see []$https : / /
+ www . ibm . com / topics /
  []
 
 ) [14
 
 ] (INFO1111_Group_Project.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `INFO1111_Group_Project.out' has not changed.
 
 (rerunfilecheck)             Checksum: 44C7CC25AEDAAD82ABF7F95B517E867B;5841.
  ) 
 Here is how much of TeX's memory you used:
- 11110 strings out of 476339
- 185259 string characters out of 5777665
- 1863388 words of memory out of 5000000
- 31325 multiletter control sequences out of 15000+600000
+ 11115 strings out of 478278
+ 185407 string characters out of 5837404
+ 1861346 words of memory out of 5000000
+ 31083 multiletter control sequences out of 15000+600000
  522991 words of font info for 52 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 0 hyphenation exceptions out of 8191
  75i,8n,76p,1752b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/chloedang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
-four/jknappen/ec/dpi657/tcrm1000.pk> </Users/chloedang/Library/Application Supp
-ort/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/ecti1000.pk> </Users/
-chloedang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknapp
-en/ec/dpi600/ecrm0800.pk> </Users/chloedang/Library/Application Support/MiKTeX/
-texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi650/ecbx1200.pk> </Users/chloedang/L
-ibrary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi75
-0/ecbx1200.pk> </Users/chloedang/Library/Application Support/MiKTeX/texmfs/data
-/fonts/pk/ljfour/jknappen/ec/dpi1244/ecbx1200.pk> </Users/chloedang/Library/App
-lication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/ecrm1000
-.pk> </Users/chloedang/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/
-ljfour/jknappen/ec/dpi657/ecbx1000.pk> </Users/chloedang/Library/Application Su
-pport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi1037/ecbx1200.pk></User
-s/chloedang/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb>
-Output written on INFO1111_Group_Project.pdf (15 pages, 198261 bytes).
+ </Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/l
+jfour/jknappen/ec/dpi657/tcrm1000.pk> </Users/tobitlouis/Library/Application Su
+pport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/ecti1000.pk> </User
+s/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jkn
+appen/ec/dpi600/ecrm0800.pk> </Users/tobitlouis/Library/Application Support/MiK
+TeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi650/ecbx1200.pk> </Users/tobitlo
+uis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/
+dpi750/ecbx1200.pk> </Users/tobitlouis/Library/Application Support/MiKTeX/texmf
+s/data/fonts/pk/ljfour/jknappen/ec/dpi1244/ecbx1200.pk> </Users/tobitlouis/Libr
+ary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/e
+crm1000.pk> </Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/f
+onts/pk/ljfour/jknappen/ec/dpi657/ecbx1000.pk> </Users/tobitlouis/Library/Appli
+cation Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi1037/ecbx1200.
+pk></Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb>
+Output written on INFO1111_Group_Project.pdf (15 pages, 198771 bytes).
 PDF statistics:
- 598 PDF objects out of 1000 (max. 8388607)
+ 599 PDF objects out of 1000 (max. 8388607)
  70 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
