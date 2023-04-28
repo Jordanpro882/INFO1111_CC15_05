@@ -50,9 +50,17 @@ R.~L. Goldstone and M.~A. Janssen, ``Computational models of collective
 {Shubhankar Khare}, ``Vim: What is it and why to use it?'' 2023, see
   \url{https://www.loginradius.com/blog/engineering/vim-getting-started/}.
 
-\bibitem{c}
-{Shivangi Vatsal}, ``Advantages and disadvantages of c programming language,''
-  2022, see
-  \url{https://unstop.com/blog/advantages-and-disadvantages-of-c-programming-language}.
+\bibitem{nvidia}
+{NVIDIA Corporation}, ``Tensorflow,'' 2023, see
+  \url{https://www.nvidia.com/en-us/glossary/data-science/tensorflow/}.
+
+\bibitem{ibm}
+IBM, ``What are neural networks?'' 2023, see
+  \url{https://www.ibm.com/topics/neural-networks}.
+
+\bibitem{simplilearn}
+Simplilearn, ``Tensorflow tutorial: Your gateway to building machine learning
+  models,'' 2023, see
+  \url{https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow}.
 
 \end{thebibliography}
