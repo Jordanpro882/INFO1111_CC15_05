@@ -11,6 +11,7 @@
 
 \usepackage[english]{babel}
 
+\graphicspath{ {./images/} }
 \geometry{ margin=30mm }
 \counterwithin{subsection}{section}
 \renewcommand\thesection{\arabic{section}.}
@@ -328,7 +329,7 @@ The following is a list of advanced Git and \LaTeX\ skills/features. Each studen
 
 \subsubsection{Git: Rebasing and Ignoring Files}
 
-\verb{git rebase} is a useful command for integrating changes from one branch into another. While \verb{git merge} is used to solve the same problem, the two commands have important differences. The key difference is that \verb{git merge} creates a new “merge commit” that combines the histories from both branches, whereas \verb{git rebase} re-writes the project history by moving/combining a sequence of commits to a new base commit. For example, consider a repository in which you are developing a new feature on branch \verb{feature}, but there have been new commits in the \verb{master} branch. At this stage, our \verb{master} branch log is below:
+\verb|git rebase| is a useful command for integrating changes from one branch into another. While \verb|git merge| is used to solve the same problem, the two commands have important differences. The key difference is that \verb|git merge| creates a new “merge commit” that combines the histories from both branches, whereas \verb|git rebase| re-writes the project history by moving/combining a sequence of commits to a new base commit. For example, consider a repository in which you are developing a new feature on branch \verb|feature|, but there have been new commits in the \verb|master| branch. At this stage, our \verb|master| branch log is below:
 
 
 

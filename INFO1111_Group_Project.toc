@@ -22,6 +22,7 @@
 \contentsline {subsection}{\numberline {3.4.}Tools for {Cyber Security}: {DANG, Chloe}}{12}{subsection.0.3.4}%
 \contentsline {section}{\numberline {4.}Level C: Advanced Skills}{13}{section.0.4}%
 \contentsline {subsection}{\numberline {4.1.}Advanced skills: {BLIGHT, Matthew}}{13}{subsection.0.4.1}%
+\contentsline {subsubsection}{Git: Rebasing and Ignoring Files}{13}{subsubsection*.7}%
 \contentsline {subsection}{\numberline {4.2.}Advanced skills: {LOUIS, Tobit}}{13}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3.}Advanced skills: {TRAN, Jordan}}{13}{subsection.0.4.3}%
 \contentsline {subsection}{\numberline {4.4.}Advanced skills: {DANG, Chloe}}{13}{subsection.0.4.4}%

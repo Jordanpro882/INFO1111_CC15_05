@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.23)  23 MAY 2023 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  25 MAY 2023 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**INFO1111_CC15_05.tex
-(/Users/jordantran/Desktop/INFO1111_CC15_05/INFO1111_Group_Project.tex
+**INFO1111_Group_Project
+(./INFO1111_Group_Project.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
@@ -443,38 +443,64 @@ g>] (./INFO1111_Group_Project.toc)
 \tf@toc=\write4
 \openout4 = `INFO1111_Group_Project.toc'.
 
- [1] [2] [3] [4]
-
-LaTeX Warning: Citation `Research' on page 5 undefined on input line 169.
-
-
-LaTeX Warning: Citation `Violino' on page 5 undefined on input line 170.
-
-
-LaTeX Warning: Citation `Research' on page 5 undefined on input line 170.
-
-[5]
-
-LaTeX Warning: Citation `stats' on page 6 undefined on input line 176.
-
-
-LaTeX Warning: Citation `data' on page 6 undefined on input line 178.
-
-[6] [7] [8] [9] [10] [11] [12] [13{/usr/local/texlive/2023/texmf-dist/fonts/enc
-/dvips/cm-super/cm-super-ts1.enc}] [14] (./INFO1111_Group_Project.bbl
-Underfull \hbox (badness 1852) in paragraph at lines 29--32
+ [1] [2] [3] [4] [5] [6] [7] [8] [9]
+[10] [11] [12] [13{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/
+cm-super-ts1.enc}] [14] (./INFO1111_Group_Project.bbl
+Underfull \hbox (badness 1112) in paragraph at lines 29--32
 []\T1/cmr/m/n/10.95 National In-sti-tute of Biomed-i-cal Imag-ing and Bio-engi-
 neer-ing, ``Com-pu-ta-tional
  []
 
 
-Underfull \hbox (badness 3536) in paragraph at lines 54--56
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+\T1/cmr/m/n/10.95 cio . com / article / 228620 / the-[]essential-[]skills-[]and
+-[]traits-[]of-[]an-[]expert-[]data-[]scientist .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+[]\T1/cmr/m/n/10.95 P. Steyn, ``Why is statis-tics im-por-tant in data sci-ence
+, ma-chine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+\T1/cmr/m/n/10.95 learn-ing, and an-a-lyt-ics,'' 2022, see []$https : / / towar
+dsdatascience . com /
+ []
+
+
+Overfull \hbox (26.45425pt too wide) in paragraph at lines 59--62
+\T1/cmr/m/n/10.95 why-[]is-[]statistics-[]important-[]in-[]data-[]science-[]mac
+hine-[]learning-[]and-[]analytics-[]92b4a410f686$[]. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
+[]\T1/cmr/m/n/10.95 M. Hunter, ``The 3 pil-lars of math you need to know to be-
+come
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
+\T1/cmr/m/n/10.95 an ef-fec-tive data an-a-lyst,'' 2022, see []$https : / / tow
+ardsdatascience . com /
+ []
+
+
+Overfull \hbox (28.48468pt too wide) in paragraph at lines 64--67
+\T1/cmr/m/n/10.95 the-[]3-[]pillars-[]of-[]math-[]you-[]need-[]to-[]know-[]to-[
+]become-[]an-[]e^^[ective-[]data-[]analyst-[]9af50106^^[a1$[]. 
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 73--75
 []\T1/cmr/m/n/10.95 NVIDIA Cor-po-ra-tion, ``Ten-sor-flow,'' 2023, see []$https
  : / / www . nvidia . com / en-[]us /
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 58--60
+Underfull \hbox (badness 1466) in paragraph at lines 77--79
 []\T1/cmr/m/n/10.95 IBM, ``What are neu-ral net-works?'' 2023, see []$https : /
  / www . ibm . com / topics /
  []
@@ -482,31 +508,29 @@ Underfull \hbox (badness 2126) in paragraph at lines 58--60
 ) [15
 
 ] (./INFO1111_Group_Project.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `INFO1111_Group_Project.out' has not changed.
 
 (rerunfilecheck)             Checksum: 44C7CC25AEDAAD82ABF7F95B517E867B;5841.
  ) 
 Here is how much of TeX's memory you used:
- 11107 strings out of 476025
- 180041 string characters out of 5790017
+ 11116 strings out of 476025
+ 180007 string characters out of 5790017
  1863388 words of memory out of 5000000
- 31345 multiletter control sequences out of 15000+600000
- 522991 words of font info for 52 fonts, out of 8000000 for 9000
+ 31350 multiletter control sequences out of 15000+600000
+ 523304 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,1744b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,1746b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr
 /local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on INFO1111_Group_Project.pdf (16 pages, 167435 bytes).
+ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on INFO1111_Group_Project.pdf (16 pages, 190763 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 278 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
+ 336 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -8,49 +8,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: main.bib
+Warning--string name "n.d" is undefined
+--line 110 of file main.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 8 entries,
+You've used 12 entries,
             4087 wiz_defined-function locations,
-            863 strings with 8540 characters,
-and the built_in function-call counts, 4146 in all, are:
-= -- 345
-> -- 56
+            880 strings with 9242 characters,
+and the built_in function-call counts, 5604 in all, are:
+= -- 459
+> -- 72
 < -- 20
-+ -- 32
-- -- 10
-* -- 177
-:= -- 715
-add.period$ -- 16
-call.type$ -- 8
-change.case$ -- 14
++ -- 40
+- -- 14
+* -- 219
+:= -- 972
+add.period$ -- 24
+call.type$ -- 12
+change.case$ -- 22
 chr.to.int$ -- 42
-cite$ -- 8
-duplicate$ -- 320
-empty$ -- 345
-format.name$ -- 12
-if$ -- 922
+cite$ -- 12
+duplicate$ -- 452
+empty$ -- 493
+format.name$ -- 16
+if$ -- 1248
 int.to.chr$ -- 0
-int.to.str$ -- 8
-missing$ -- 66
-newline$ -- 51
-num.names$ -- 8
-pop$ -- 160
+int.to.str$ -- 12
+missing$ -- 98
+newline$ -- 63
+num.names$ -- 12
+pop$ -- 249
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 328
+skip$ -- 443
 stack$ -- 0
-substring$ -- 118
-swap$ -- 222
+substring$ -- 130
+swap$ -- 293
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 8
+type$ -- 12
 warning$ -- 0
-while$ -- 14
-width$ -- 9
-write$ -- 98
+while$ -- 18
+width$ -- 14
+write$ -- 129
+(There was 1 warning)
