@@ -24,6 +24,18 @@
 \setlength{\cftsecnumwidth}{2em}
 \setlength{\cftsubsecnumwidth}{2.5em}
 
+\newenvironment{boldbox}
+    {\begin{center}
+    \begin{tabular}{|p{0.9\textwidth}|}
+    \hline\\
+    \bfseries
+    }
+    { 
+    \\\\\hline
+    \end{tabular} 
+    \end{center}
+    }
+
 
 \begin{document}
 \titleformat{\section}
@@ -76,7 +88,7 @@
 	Name & Student ID & \raggedright{Levels already achieved} & \raggedright{Levels being attempted} & Selected Major \\
 	\hline
 	\hline
-	\raggedright{\studA} & \sidA & X & A, B & \majA \\
+	\raggedright{\studA} & \sidA & A, B & C & \majA \\
 	\raggedright{\studB} & \sidB & X & A & \majB \\
 	\raggedright{\studC} & \sidC & A & B,  C & \majC \\
 	\raggedright{\studD} & \sidD & X & A & \majD \\
@@ -327,11 +339,91 @@ The following is a list of advanced Git and \LaTeX\ skills/features. Each studen
 
 \subsection{Advanced skills: \studA}
 
-\subsubsection{Git: Rebasing and Ignoring Files}
+\subsubsection{Git: Rebasing}
 
-\verb|git rebase| is a useful command for integrating changes from one branch into another. While \verb|git merge| is used to solve the same problem, the two commands have important differences. The key difference is that \verb|git merge| creates a new “merge commit” that combines the histories from both branches, whereas \verb|git rebase| re-writes the project history by moving/combining a sequence of commits to a new base commit. For example, consider a repository in which you are developing a new feature on branch \verb|feature|, but there have been new commits in the \verb|master| branch. At this stage, our \verb|master| branch log is below:
+\verb|git rebase| is a useful command for integrating changes from one branch into another. While \verb|git merge| is used to solve the same problem, the two commands have important differences. The key difference is that \verb|git merge| creates a new “merge commit” that combines the histories from both branches, whereas \verb|git rebase| re-writes the project history by moving/combining a sequence of commits to a new base commit \cite{mergingvrebasing}. For example, consider a repository in which you are developing a new feature on branch \verb|feature|, but there have been new commits in the \verb|master| branch. At this stage, our \verb|master| branch log is below:
+
+\includegraphics[width=\textwidth]{rebase1}
+
+And our \verb|feature| branch log is below (note that the ‘Add More Text’ and ‘Fix Bug’ commits are not here):
+
+\includegraphics[width=\textwidth]{rebase2}
+
+You realise that the new commits in \verb|master| are useful for your feature, but you don’t want to create a new merge commit in your \verb|feature| branch. Instead, you want it to seem like you were working on \verb|feature| from the latest \verb|master| commit. Here, you would use the command \verb|git rebase master|. This creates a new ‘base’ for the \verb|feature| branch, re-writing the commit history to show \verb|feature| branching off from the newest \verb|master| commit. The rebased log would look like this:
+
+\includegraphics[width=\textwidth]{rebase3}
+
+The \verb|git rebase| command is incredibly useful for keeping commit history clean and linear, rather than having multiple merge commits, which can look especially messy if the \verb|master| branch is very active. The main rule to remember with this command is to never use it on public branches, as re-writing commit history can make collaboration incredibly messy \cite{rebase}.
+
+\subsubsection{Git: Ignoring Files \cite{ignore}}
+
+Sometimes a project may have files that you don’t want to commit to a repository. These may be:
+
+\begin{itemize}
+	\item compiled code, such as \verb|.pyc| files
+	\item hidden systems files, such as \verb|.DS_Store|
+	\item files generated at runtime, such as \verb|.log|
+\end{itemize}
+
+While this problem could be solved by only staging the files needed, this can be extraneous and results in git showing that there are untracked files:
+
+\includegraphics[width=\textwidth]{ignore1}
+
+A better way of solving this problem is to create a file called \verb|.gitignore| at the root of the repository, which stores the names of files and directories that you want git to ignore. For our example, our \verb|.gitignore| file contains \verb|ignore_this_file.exe| and \verb|ignore_this_directory|: 
+
+\includegraphics[width=\textwidth]{ignore2}
+
+These files and directories will be automatically ignored when staging and committing, as seen below:
+
+\includegraphics[width=\textwidth]{ignore3}
+
+%=======================================================================================
+
+\newpage
 
 
+\subsubsection{\LaTeX\ : Footnotes and Margin Notes \cite{footnotes}}
+
+Footnotes are a great way to provide extra information to the reader whilst keeping the main flow of the text clean and concise.\footnote{This is an example of a footnote.} Footnotes are easy to implement in LaTeX. Simply use the command \verb|\footnote{text}|, and your text will be automatically be placed at the bottom of the page.\footnote{Footnotes will automatically be numbered sequentially.}
+
+Margin notes are a great way to exchange comments between authors in the editorial process, or otherwise to provide extra information to the reader. To insert a margin note, use the command \verb|\marginpar{margin note}|. \marginpar{Margin notes are inserted in the outside margin, starting from the line where it is defined.}
+
+\subsubsection{\LaTeX\ : Creating New Environments}
+
+Environments in LaTeX are useful for applying specific effects to sections of a document. There are a number of existing LaTeX environment, however it is useful to know how to create new environments. The basic syntax for defining a new environment is \verb|\newenvironment{<env-name>}[<n-args>][<default>]{<begin-code>}{<end-code>}|, where \verb|<env-name>| is the name of the new environment. \verb|<begin-code>| and \verb|<end-code>| is the LaTeX code to be applied at the beginning and end of the environment. \verb|<n-args>| can be used to define an environment with arguments, and \verb|<default>| can be used to define an environment with an optional argument. As an example, we can create a new environment called \verb|boldbox|, which puts text in a centered box and makes it bold. The environment definition would be:
+
+\begin{verbatim}
+\newenvironment{boldbox}
+    {\begin{center}
+    \begin{tabular}{|p{\textwidth}|}
+    \hline\\
+    \bfseries
+    }
+    { 
+    \\\\\hline
+    \end{tabular} 
+    \end{center}
+    }
+\end{verbatim}
+
+We can this use this just like any other LaTeX environment:
+
+\begin{verbatim}
+\begin{boldbox}
+I want this text to be bold in a box!
+\end{boldbox}
+\end{verbatim}
+
+Which results in:
+
+\begin{boldbox}
+I want this text to be bold in a box!
+\end{boldbox}
+
+
+%=======================================================================================
+
+\newpage
 
 \subsection{Advanced skills: \studB}
 

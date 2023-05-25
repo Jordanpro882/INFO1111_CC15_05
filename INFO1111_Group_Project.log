@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  25 MAY 2023 10:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  25 MAY 2023 13:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -342,24 +342,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (./INFO1111_Group_Project.aux)
 \openout1 = `INFO1111_Group_Project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -395,7 +395,7 @@ LaTeX Font Info:    ... okay on input line 27.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 27.
+Package hyperref Info: Link coloring OFF on input line 40.
 (./INFO1111_Group_Project.out) (./INFO1111_Group_Project.out)
 \@outlinefile=\write3
 \openout3 = `INFO1111_Group_Project.out'.
@@ -423,29 +423,149 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<USyd.jpg, id=104, 257.46187pt x 89.58469pt>
-File: USyd.jpg Graphic file (type jpg)
-<use USyd.jpg>
-Package pdftex.def Info: USyd.jpg  used on input line 62.
+<./images//USyd.jpg, id=104, 257.46187pt x 89.58469pt>
+File: ./images//USyd.jpg Graphic file (type jpg)
+<use ./images//USyd.jpg>
+Package pdftex.def Info: ./images//USyd.jpg  used on input line 75.
 (pdftex.def)             Requested size: 113.81102pt x 39.60054pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 73.
+(Font)              <10.95> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 73.
+(Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 73.
+(Font)              <6> on input line 86.
 
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./USyd.jp
-g>] (./INFO1111_Group_Project.toc)
+al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./images/
+/USyd.jpg>] (./INFO1111_Group_Project.toc)
 \tf@toc=\write4
 \openout4 = `INFO1111_Group_Project.toc'.
 
- [1] [2] [3] [4] [5] [6] [7] [8] [9]
-[10] [11] [12] [13{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/
-cm-super-ts1.enc}] [14] (./INFO1111_Group_Project.bbl
+ [1] [2] [3] [4] [5] [6] [7]
+[8] [9] [10] [11] [12]
+<./images//rebase1.png, id=243, 980.66376pt x 503.8825pt>
+File: ./images//rebase1.png Graphic file (type png)
+<use ./images//rebase1.png>
+Package pdftex.def Info: ./images//rebase1.png  used on input line 346.
+(pdftex.def)             Requested size: 426.79135pt x 219.28706pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 346--347
+[][] 
+ []
+
+[13{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}]
+<./images//rebase2.png, id=253, 1011.78pt x 508.90125pt>
+File: ./images//rebase2.png Graphic file (type png)
+<use ./images//rebase2.png>
+Package pdftex.def Info: ./images//rebase2.png  used on input line 350.
+(pdftex.def)             Requested size: 426.79135pt x 214.66888pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 350--351
+[][] 
+ []
+
+<./images//rebase3.png, id=254, 1009.7725pt x 845.1575pt>
+File: ./images//rebase3.png Graphic file (type png)
+<use ./images//rebase3.png>
+Package pdftex.def Info: ./images//rebase3.png  used on input line 354.
+(pdftex.def)             Requested size: 426.79135pt x 357.22054pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 354--355
+[][] 
+ []
+
+[14 <./images//rebase1.png> <./images//rebase2.png>]
+<./images//ignore1.png, id=263, 1018.80624pt x 407.5225pt>
+File: ./images//ignore1.png Graphic file (type png)
+<use ./images//ignore1.png>
+Package pdftex.def Info: ./images//ignore1.png  used on input line 370.
+(pdftex.def)             Requested size: 426.79135pt x 170.71678pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 370--371
+[][] 
+ []
+
+[15 <./images//rebase3.png>]
+<./images//ignore2.png, id=272, 1003.75pt x 119.44624pt>
+File: ./images//ignore2.png Graphic file (type png)
+<use ./images//ignore2.png>
+Package pdftex.def Info: ./images//ignore2.png  used on input line 374.
+(pdftex.def)             Requested size: 426.79135pt x 50.78857pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 374--375
+[][] 
+ []
+
+<./images//ignore3.png, id=273, 1228.59pt x 507.8975pt>
+File: ./images//ignore3.png Graphic file (type png)
+<use ./images//ignore3.png>
+Package pdftex.def Info: ./images//ignore3.png  used on input line 378.
+(pdftex.def)             Requested size: 426.79135pt x 176.4338pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 378--379
+[][] 
+ []
+
+[16 <./images//ignore1.png> <./images//ignore2.png> <./images//ignore3.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 387.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 387.
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+[]\T1/cmr/m/n/10.95 Margin
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 notes are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 in-serted
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 in the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 out-side
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 mar-gin,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 start-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 ing from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--389
+\T1/cmr/m/n/10.95 the line
+ []
+
+
+Overfull \hbox (1.55196pt too wide) in paragraph at lines 393--394
+[][]\T1/cmtt/m/n/10.95 \newenvironment{<env-name>}[<n-args>][<default>]{<begin-
+code>}{<end-code>}[]\T1/cmr/m/n/10.95 ,
+ []
+
+[17] [18] [19] (./INFO1111_Group_Project.bbl
 Underfull \hbox (badness 1112) in paragraph at lines 29--32
 []\T1/cmr/m/n/10.95 National In-sti-tute of Biomed-i-cal Imag-ing and Bio-engi-
 neer-ing, ``Com-pu-ta-tional
@@ -505,32 +625,47 @@ Underfull \hbox (badness 1466) in paragraph at lines 77--79
  / www . ibm . com / topics /
  []
 
-) [15
 
-] (./INFO1111_Group_Project.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+[]\T1/cmr/m/n/10.95 ------, ``git re-base,'' 2023, see []$https : / / www . atl
+assian . com / git / tutorials /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+[]\T1/cmr/m/n/10.95 ------, ``.git-ig-nore,'' 2023, see []$https : / / www . at
+lassian . com / git / tutorials /
+ []
+
+[20
+
+]) [21] (./INFO1111_Group_Project.aux)
 Package rerunfilecheck Info: File `INFO1111_Group_Project.out' has not changed.
 
 (rerunfilecheck)             Checksum: 44C7CC25AEDAAD82ABF7F95B517E867B;5841.
  ) 
 Here is how much of TeX's memory you used:
- 11116 strings out of 476025
- 180007 string characters out of 5790017
- 1863388 words of memory out of 5000000
- 31350 multiletter control sequences out of 15000+600000
- 523304 words of font info for 53 fonts, out of 8000000 for 9000
+ 11220 strings out of 476025
+ 181947 string characters out of 5790017
+ 1864388 words of memory out of 5000000
+ 31431 multiletter control sequences out of 15000+600000
+ 526523 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,76p,1746b,515s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,8n,76p,1746b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr
-/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/l
-ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/loc
-al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on INFO1111_Group_Project.pdf (16 pages, 190763 bytes).
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on INFO1111_Group_Project.pdf (22 pages, 558472 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 299 compressed objects within 3 object streams
- 78 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 416 PDF objects out of 1000 (max. 8388607)
+ 354 compressed objects within 4 object streams
+ 93 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 

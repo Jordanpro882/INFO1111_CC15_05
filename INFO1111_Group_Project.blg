@@ -15,45 +15,45 @@ Warning--string name "n.d" is undefined
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 12 entries,
+You've used 16 entries,
             4087 wiz_defined-function locations,
-            880 strings with 9242 characters,
-and the built_in function-call counts, 5604 in all, are:
-= -- 459
-> -- 72
+            894 strings with 9666 characters,
+and the built_in function-call counts, 7088 in all, are:
+= -- 579
+> -- 88
 < -- 20
-+ -- 40
-- -- 14
-* -- 219
-:= -- 972
-add.period$ -- 24
-call.type$ -- 12
-change.case$ -- 22
++ -- 48
+- -- 18
+* -- 263
+:= -- 1234
+add.period$ -- 32
+call.type$ -- 16
+change.case$ -- 30
 chr.to.int$ -- 42
-cite$ -- 12
-duplicate$ -- 452
-empty$ -- 493
-format.name$ -- 16
-if$ -- 1248
+cite$ -- 16
+duplicate$ -- 584
+empty$ -- 641
+format.name$ -- 20
+if$ -- 1582
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 98
-newline$ -- 63
-num.names$ -- 12
-pop$ -- 249
+int.to.str$ -- 16
+missing$ -- 130
+newline$ -- 75
+num.names$ -- 16
+pop$ -- 337
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 443
+skip$ -- 563
 stack$ -- 0
-substring$ -- 130
-swap$ -- 293
+substring$ -- 142
+swap$ -- 365
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 12
+type$ -- 16
 warning$ -- 0
-while$ -- 18
-width$ -- 14
-write$ -- 129
+while$ -- 22
+width$ -- 18
+write$ -- 161
 (There was 1 warning)

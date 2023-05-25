@@ -82,4 +82,20 @@ Simplilearn, ``Tensorflow tutorial: Your gateway to building machine learning
   models,'' 2023, see
   \url{https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow}.
 
+\bibitem{mergingvrebasing}
+{Atlassian}, ``Merging vs. rebasing,'' 2023, see
+  \url{https://www.atlassian.com/git/tutorials/merging-vs-rebasing}.
+
+\bibitem{rebase}
+------, ``git rebase,'' 2023, see
+  \url{https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase}.
+
+\bibitem{ignore}
+------, ``.gitignore,'' 2023, see
+  \url{https://www.atlassian.com/git/tutorials/saving-changes/gitignore}.
+
+\bibitem{footnotes}
+{WikiBooks}, ``Latex/footnotes and margin notes,'' 2023, see
+  \url{https://en.wikibooks.org/wiki/LaTeX/Footnotes_and_Margin_Notes}.
+
 \end{thebibliography}
