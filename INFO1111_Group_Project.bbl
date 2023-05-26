@@ -126,16 +126,16 @@ Simplilearn, ``Tensorflow tutorial: Your gateway to building machine learning
   \url{https://www.linkedin.com/pulse/docker-an-overviewpros-cons-danish-jamil/}.
 
 \bibitem{lucidchart}
-{Lucid Content Team}, ``8 reasons why lucidchart is the perfect microsoft
-  visio® replacement,'' ????, see
-  \url{https://www.lucidchart.com/blog/reasons-why-lucidchart-is-the-perfect-microsoft-visio-replacement}.
+{Lucid Content Team}, ``What is a git fork? meaning, definition and a git fork
+  example,'' 2023, see
+  \url{https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/command-line-GitHub-fork-CLI-terminal-shell#:~:text=Git%20Fork%20Definition,with%20a%20standard%20Git%20installation.}
 
 \bibitem{mergingvrebasing}
 {Atlassian}, ``Merging vs. rebasing,'' 2023, see
   \url{https://www.atlassian.com/git/tutorials/merging-vs-rebasing}.
 
 \bibitem{rebase}
-------, ``git_rebase,'' 2023, see
+------, ``git rebase,'' 2023, see
   \url{https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase}.
 
 \bibitem{ignore}
@@ -145,5 +145,30 @@ Simplilearn, ``Tensorflow tutorial: Your gateway to building machine learning
 \bibitem{footnotes}
 {WikiBooks}, ``Latex/footnotes and margin notes,'' 2023, see
   \url{https://en.wikibooks.org/wiki/LaTeX/Footnotes_and_Margin_Notes}.
+
+\bibitem{gitfork}
+{The Server Side}, ``8 reasons why lucidchart is the perfect microsoft visio
+  replacement,'' ????, see
+  \url{https://www.lucidchart.com/blog/reasons-why-lucidchart-is-the-perfect-microsoft-visio-replacement}.
+
+\bibitem{medium}
+{Soulaiman Ghanem}, ``Github repository structure best practices,'' 2021, see
+  \url{https://medium.com/code-factory-berlin/github-repository-structure-best-practices-248e6effc405}.
+
+\bibitem{pluralsight}
+{Adam Garrett-Harris}, ``How to use a .gitignore file,'' 2019, see
+  \url{https://www.pluralsight.com/guides/how-to-use-gitignore-file}.
+
+\bibitem{codepath}
+{codepath}, ``Using git with terminal,'' ????, see
+  \url{https://guides.codepath.com/ios/Using-Git-with-Terminal}.
+
+\bibitem{WikiBooks}
+{WikiBooks}, ``Latex/floats, figures and captions,'' ????, see
+  \url{https://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions}.
+
+\bibitem{stylesheets}
+{Robert Dale}, ``Latex style tips,'' 2010, see
+  \url{https://web.science.mq.edu.au/~rdale/resources/writingnotes/latexstyle.html}.
 
 \end{thebibliography}

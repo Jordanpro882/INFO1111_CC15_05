@@ -1,17 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2023.3.17)  26 MAY 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  26 MAY 2023 19:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./INFO1111_Group_Project.tex
-(INFO1111_Group_Project.tex
+**INFO1111_Group_Project
+(./INFO1111_Group_Project.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-07>
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/report.cls
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
-
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/size11.clo
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -27,12 +24,10 @@ File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-blindtext/blindtext.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/blindtext/blindtext.sty
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-tools/xspace.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count194
@@ -54,18 +49,15 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@pangramcount=\count276
 \c@blind@pangrammax=\count277
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/fontenc.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/inputenc.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-titlesec/titlesec.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip50
@@ -77,8 +69,7 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidthlast=\dimen144
 \titlewidthfirst=\dimen145
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-fancyhdr/fancyhdr.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
 \f@nch@headwidth=\skip52
@@ -91,21 +82,17 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-geometry/geometry.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-graphics/keyval.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/iftex/ifvtex.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/iftex/iftex.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count278
@@ -120,77 +107,59 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen152
 \Gm@layoutvoffset=\dimen153
 \Gm@dimlist=\toks20
-
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-geometry/geometry.cfg))
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/fix-cm.sty
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/ts1enc.def
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-hyperref/hyperref.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/ltxcmds/ltxcmds.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/infwarerr/infwarerr.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-kvsetkeys/kvsetkeys.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/kvdefinekeys/kvdefinekeys.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/pdfescape/pdfescape.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-hycolor/hycolor.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-letltxmacro/letltxmacro.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-auxhook/auxhook.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-hyperref/nameref.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-refcount/refcount.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/gettitlestring/gettitlestring.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-kvoptions/kvoptions.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count281
@@ -199,24 +168,20 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \Hy@linkcounter=\count282
 \Hy@pagecounter=\count283
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-hyperref/pd1enc.def
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/intcalc/intcalc.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/etexcmds/etexcmds.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count284
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-hyperref/puenc.def
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -230,20 +195,17 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count285
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-url/url.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen155
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/bitset/bitset.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/bigintcalc/bigintcalc.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -258,8 +220,7 @@ Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/atbegshi-ltx.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -269,12 +230,10 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-hyperref/hpdftex.def
+(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-base/atveryend-ltx.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
@@ -282,76 +241,60 @@ with kernel methods
 \Fld@listcount=\count290
 \c@bookmark@seq@number=\count291
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-rerunfilecheck/rerunfilecheck.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/uniquecounter/uniquecounter.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
 \Hy@SectionHShift=\skip61
-)
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-graphics/graphicx.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-graphics/graphics.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-graphics/trig.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-graphics-cfg/graphics.cfg
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-graphics-def/pdftex.def
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen158
 \Gin@req@width=\dimen159
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/babel/babel.sty
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count292
 \U@D=\dimen160
-\l@unhyphenated=\language1
+\l@unhyphenated=\language87
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/babel/txtbabel.def)
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count293
 
-*************************************
-* Local config file bblopts.cfg used
-*
-
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-arabi/bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-babel-english/english.ldf
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
 ))
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/generi
-c/babel/locale/en/babel-english.tex
+(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.t
+ex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-)
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-tocloft/tocloft.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip62
@@ -391,12 +334,12 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cfttabindent=\skip94
 \cfttabnumwidth=\skip95
 )
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-l3backend/l3backend-pdftex.def
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count296
 \l__pdf_internal_box=\box52
-) (INFO1111_Group_Project.aux)
+)
+(./INFO1111_Group_Project.aux)
 \openout1 = `INFO1111_Group_Project.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -453,13 +396,12 @@ LaTeX Font Info:    ... okay on input line 40.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 40.
-(INFO1111_Group_Project.out) (INFO1111_Group_Project.out)
+(./INFO1111_Group_Project.out) (./INFO1111_Group_Project.out)
 \@outlinefile=\write3
 \openout3 = `INFO1111_Group_Project.out'.
 
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/contex
-t/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count297
 \scratchdimen=\dimen161
@@ -472,18 +414,16 @@ t/base/mkii/supp-pdf.mkii
 \MPnumerator=\count301
 \makeMPintoPDFobject=\count302
 \everyMPtoPDFconversion=\toks22
-)
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-epstopdf-pkg/epstopdf-base.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/tex/latex/
-00miktex/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
-<./images//USyd.jpg, id=103, 257.46187pt x 89.58469pt>
+<./images//USyd.jpg, id=104, 257.46187pt x 89.58469pt>
 File: ./images//USyd.jpg Graphic file (type jpg)
 <use ./images//USyd.jpg>
 Package pdftex.def Info: ./images//USyd.jpg  used on input line 75.
@@ -494,124 +434,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 86.
- [1
 
-{/Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdf
-tex/pdftex.map} <./images//USyd.jpg>]
-(INFO1111_Group_Project.toc)
+[1
+
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
+al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./images/
+/USyd.jpg>] (./INFO1111_Group_Project.toc)
 \tf@toc=\write4
 \openout4 = `INFO1111_Group_Project.toc'.
 
- [1]
-Overfull \hbox (17.76146pt too wide) in paragraph at lines 118--119
-[]\T1/cmr/m/n/10.95 Online study courses are most appropriate for when someone 
-wants to gain a comprehensive
- []
-
-
-Overfull \hbox (9.90437pt too wide) in paragraph at lines 122--123
-\T1/cmr/m/n/10.95 language. Coding tutorials and other similar videos give a gr
-eat foundation for understanding
- []
-
-[2] [3]
-Overfull \hbox (36.0968pt too wide) in paragraph at lines 163--164
-\T1/cmr/m/n/10.95 landscape is rapidly changing, with evermore products, progra
-mming languages and methodologies
- []
-
-
-Overfull \hbox (0.12277pt too wide) in paragraph at lines 165--166
-\T1/cmr/m/n/10.95 technology worked, and spent time researching the implication
-s that it and other generative
- []
-
-[4]
-Overfull \hbox (4.74506pt too wide) in paragraph at lines 186--187
-[]\T1/cmr/m/n/10.95 Throughout my schooling, I have developed the sound researc
-h skills needed to formulate
- []
-
-[5]
-Overfull \hbox (8.48526pt too wide) in paragraph at lines 203--204
-\T1/cmr/m/n/10.95 factors for a high-quality and reliable product need continua
-l assistance post the development
- []
-
-[6]
-Overfull \hbox (13.73863pt too wide) in paragraph at lines 212--213
-[]\T1/cmr/m/n/10.95 The notion of computational thinking (ie. the thought proce
-ss of systematically formulating
- []
-
-
-Overfull \hbox (1.7649pt too wide) in paragraph at lines 215--216
-\T1/cmr/m/n/10.95 adversaries may attack a system or network is vital to produc
-tive preparation and successful
- []
-
-[7]
-Overfull \hbox (3.40967pt too wide) in paragraph at lines 222--223
-[]\T1/cmr/m/n/10.95 Evaluating how effective defences/mitigation controls (eith
-er current or future) withstand
- []
-
-[8]
-Overfull \hbox (18.18591pt too wide) in paragraph at lines 239--240
-[]\T1/cmr/m/n/10.95 Level B focuses on exploration of key tools used within pro
-fessional computing employment.
- []
-
-[9]
-Overfull \hbox (7.04587pt too wide) in paragraph at lines 283--284
-\T1/cmr/m/n/10.95 data flow between the various mathematical operations, called
- `nodes' [[]]. This architecture
- []
-
-[10]
-Overfull \hbox (16.80724pt too wide) in paragraph at lines 289--290
-\T1/cmr/m/n/10.95 working in the field of artificial intelligence. However, its
- complexity and resource requirements
- []
-
-
-Overfull \hbox (5.26196pt too wide) in paragraph at lines 294--295
-\T1/cmr/m/n/10.95 Python is a multi-purpose, high-level programming language th
-at was designed to emphasise
- []
-
-
-Overfull \hbox (17.06075pt too wide) in paragraph at lines 294--295
-\T1/cmr/m/n/10.95 in a variety of domains and uses natural language elements an
-d simplifies program development
- []
-
-
-Overfull \hbox (28.03828pt too wide) in paragraph at lines 300--301
-[]\T1/cmr/bx/n/10.95 Weaknesses/Limitations: \T1/cmr/m/n/10.95 While Python is 
-a powerful tool, tasks that are computationally
- []
-
-
-Overfull \hbox (6.49486pt too wide) in paragraph at lines 305--306
-[]\T1/cmr/bx/n/10.95 Main Functionality: \T1/cmr/m/n/10.95 Tableau enables user
-s to create interactive and visually appealing
- []
-
-[11]
-Overfull \hbox (0.94379pt too wide) in paragraph at lines 317--318
-\T1/cmr/m/n/10.95 With Docker, developers can package their applications along 
-with all the required libraries,
- []
-
-
-Overfull \hbox (13.98932pt too wide) in paragraph at lines 324--325
-\T1/cmr/m/n/10.95 Lucidchart is a design tool that allows users to create and c
-ollaborate on types of visualizations
- []
-
-[12] [13]
-<./images//rebase1.png, id=272, 980.66376pt x 503.8825pt>
+ [1] [2] [3] [4] [5] [6] [7]
+[8] [9] [10] [11] [12] [13]
+<./images//rebase1.png, id=271, 980.66376pt x 503.8825pt>
 File: ./images//rebase1.png Graphic file (type png)
 <use ./images//rebase1.png>
 Package pdftex.def Info: ./images//rebase1.png  used on input line 364.
@@ -621,8 +455,9 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 364--365
 [][] 
  []
 
-[14]
-<./images//rebase2.png, id=282, 1011.78pt x 508.90125pt>
+[14{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.en
+c}]
+<./images//rebase2.png, id=281, 1011.78pt x 508.90125pt>
 File: ./images//rebase2.png Graphic file (type png)
 <use ./images//rebase2.png>
 Package pdftex.def Info: ./images//rebase2.png  used on input line 368.
@@ -632,7 +467,7 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 368--369
 [][] 
  []
 
-<./images//rebase3.png, id=283, 1009.7725pt x 845.1575pt>
+<./images//rebase3.png, id=282, 1009.7725pt x 845.1575pt>
 File: ./images//rebase3.png Graphic file (type png)
 <use ./images//rebase3.png>
 Package pdftex.def Info: ./images//rebase3.png  used on input line 372.
@@ -643,7 +478,7 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 372--373
  []
 
 [15 <./images//rebase1.png> <./images//rebase2.png>]
-<./images//ignore1.png, id=292, 1018.80624pt x 407.5225pt>
+<./images//ignore1.png, id=291, 1018.80624pt x 407.5225pt>
 File: ./images//ignore1.png Graphic file (type png)
 <use ./images//ignore1.png>
 Package pdftex.def Info: ./images//ignore1.png  used on input line 388.
@@ -691,7 +526,7 @@ Underfull \hbox (badness 5008) in paragraph at lines 407--407
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 407--407
-\T1/cmr/m/n/10.95 inserted
+\T1/cmr/m/n/10.95 in-serted
  []
 
 
@@ -701,22 +536,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 407--407
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 407--407
-\T1/cmr/m/n/10.95 outside
+\T1/cmr/m/n/10.95 out-side
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 407--407
-\T1/cmr/m/n/10.95 margin,
+\T1/cmr/m/n/10.95 mar-gin,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 407--407
-\T1/cmr/m/n/10.95 starting
+\T1/cmr/m/n/10.95 start-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 407--407
-\T1/cmr/m/n/10.95 from
+\T1/cmr/m/n/10.95 ing from
  []
 
 
@@ -725,16 +560,153 @@ Underfull \hbox (badness 10000) in paragraph at lines 407--407
  []
 
 
-Overfull \hbox (362.77223pt too wide) in paragraph at lines 411--412
-\T1/cmr/m/n/10.95 create new environments. The basic syntax for defining a new 
-environment is []\T1/cmtt/m/n/10.95 \newenvironment{<env-name>}[<n-args>][<defa
-ult>]{<begin-code>}{<end-code>}\T1/cmr/m/n/10.95 ,
+Overfull \hbox (1.55196pt too wide) in paragraph at lines 411--412
+[][]\T1/cmtt/m/n/10.95 \newenvironment{<env-name>}[<n-args>][<default>]{<begin-
+code>}{<end-code>}[]\T1/cmr/m/n/10.95 ,
  []
 
-[18] [19] [20] (INFO1111_Group_Project.bbl
+[18]
+<./images//empty_fork.png, id=327, 307.1475pt x 32.12pt>
+File: ./images//empty_fork.png Graphic file (type png)
+<use ./images//empty_fork.png>
+Package pdftex.def Info: ./images//empty_fork.png  used on input line 458.
+(pdftex.def)             Requested size: 426.79135pt x 44.63487pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 458--459
+[][] 
+ []
+
+<./images//cloning.png, id=328, 770.88pt x 113.42375pt>
+File: ./images//cloning.png Graphic file (type png)
+<use ./images//cloning.png>
+Package pdftex.def Info: ./images//cloning.png  used on input line 462.
+(pdftex.def)             Requested size: 426.79135pt x 62.79515pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 462--463
+[][] 
+ []
+
+<./images//fork_repo.png, id=329, 481.8pt x 115.43124pt>
+File: ./images//fork_repo.png Graphic file (type png)
+<use ./images//fork_repo.png>
+Package pdftex.def Info: ./images//fork_repo.png  used on input line 466.
+(pdftex.def)             Requested size: 426.79135pt x 102.2544pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 466--467
+[][] 
+ []
+
+[19 <./images//empty_fork.png> <./images//cloning.png> <./images//fork_repo.png
+>]
+<./images//create_gitignore.png, id=345, 483.8075pt x 143.53625pt>
+File: ./images//create_gitignore.png Graphic file (type png)
+<use ./images//create_gitignore.png>
+Package pdftex.def Info: ./images//create_gitignore.png  used on input line 478
+.
+(pdftex.def)             Requested size: 426.79135pt x 126.62547pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 478--479
+[][] 
+ []
+
+<./images//ignore_contents.png, id=346, 681.54625pt x 313.17pt>
+File: ./images//ignore_contents.png Graphic file (type png)
+<use ./images//ignore_contents.png>
+Package pdftex.def Info: ./images//ignore_contents.png  used on input line 482.
+
+(pdftex.def)             Requested size: 426.79135pt x 196.11304pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 482--483
+[][] 
+ []
+
+<./images//ignore_push.png, id=347, 618.31pt x 546.04pt>
+File: ./images//ignore_push.png Graphic file (type png)
+<use ./images//ignore_push.png>
+Package pdftex.def Info: ./images//ignore_push.png  used on input line 486.
+(pdftex.def)             Requested size: 426.79135pt x 376.91798pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 486--487
+[][] 
+ []
+
+[20 <./images//create_gitignore.png> <./images//ignore_contents.png>]
+<./images//create_gitattributes.png, id=355, 506.89375pt x 143.53625pt>
+File: ./images//create_gitattributes.png Graphic file (type png)
+<use ./images//create_gitattributes.png>
+Package pdftex.def Info: ./images//create_gitattributes.png  used on input line
+ 492.
+(pdftex.def)             Requested size: 426.79135pt x 120.85652pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 492--493
+[][] 
+ []
+
+<./images//gitattributes_contents.png, id=356, 456.70625pt x 56.21pt>
+File: ./images//gitattributes_contents.png Graphic file (type png)
+<use ./images//gitattributes_contents.png>
+Package pdftex.def Info: ./images//gitattributes_contents.png  used on input li
+ne 496.
+(pdftex.def)             Requested size: 426.79135pt x 52.52948pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 496--497
+[][] 
+ []
+
+[21 <./images//ignore_push.png> <./images//create_gitattributes.png> <./images/
+/gitattributes_contents.png>]
+<./images//add_gitattributes.png, id=366, 667.49374pt x 398.48875pt>
+File: ./images//add_gitattributes.png Graphic file (type png)
+<use ./images//add_gitattributes.png>
+Package pdftex.def Info: ./images//add_gitattributes.png  used on input line 50
+0.
+(pdftex.def)             Requested size: 426.79135pt x 254.79478pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 500--501
+[][] 
+ []
+
+[22 <./images//add_gitattributes.png>]
+<./images//float_table.png, id=373, 858.20625pt x 210.7875pt>
+File: ./images//float_table.png Graphic file (type png)
+<use ./images//float_table.png>
+Package pdftex.def Info: ./images//float_table.png  used on input line 508.
+(pdftex.def)             Requested size: 426.79135pt x 104.82741pt.
+
+Overfull \hbox (17.0pt too wide) in paragraph at lines 508--509
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[23 <./images//float_table.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[25] (./INFO1111_Group_Project.bbl
 Underfull \hbox (badness 1112) in paragraph at lines 29--32
-[]\T1/cmr/m/n/10.95 National Institute of Biomedical Imaging and Bioengineering
-, ``Computational
+[]\T1/cmr/m/n/10.95 National In-sti-tute of Biomed-i-cal Imag-ing and Bio-engi-
+neer-ing, ``Com-pu-ta-tional
  []
 
 
@@ -745,14 +717,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--57
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--62
-[]\T1/cmr/m/n/10.95 P. Steyn, ``Why is statistics important in data science, ma
-chine
+[]\T1/cmr/m/n/10.95 P. Steyn, ``Why is statis-tics im-por-tant in data sci-ence
+, ma-chine
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--62
-\T1/cmr/m/n/10.95 learning, and analytics,'' 2022, see []$https : / / towardsda
-tascience . com /
+\T1/cmr/m/n/10.95 learn-ing, and an-a-lyt-ics,'' 2022, see []$https : / / towar
+dsdatascience . com /
  []
 
 
@@ -763,14 +735,14 @@ hine-[]learning-[]and-[]analytics-[]92b4a410f686$[].
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--67
-[]\T1/cmr/m/n/10.95 M. Hunter, ``The 3 pillars of math you need to know to beco
-me
+[]\T1/cmr/m/n/10.95 M. Hunter, ``The 3 pil-lars of math you need to know to be-
+come
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 64--67
-\T1/cmr/m/n/10.95 an effective data analyst,'' 2022, see []$https : / / towards
-datascience . com /
+\T1/cmr/m/n/10.95 an ef-fec-tive data an-a-lyst,'' 2022, see []$https : / / tow
+ardsdatascience . com /
  []
 
 
@@ -781,52 +753,58 @@ Overfull \hbox (28.48468pt too wide) in paragraph at lines 64--67
 
 
 Underfull \hbox (badness 2103) in paragraph at lines 73--75
-[]\T1/cmr/m/n/10.95 NVIDIA Corporation, ``Tensorflow,'' 2023, see []$https : / 
-/ www . nvidia . com / en-[]us /
+[]\T1/cmr/m/n/10.95 NVIDIA Cor-po-ra-tion, ``Ten-sor-flow,'' 2023, see []$https
+ : / / www . nvidia . com / en-[]us /
  []
 
 
 Underfull \hbox (badness 1466) in paragraph at lines 77--79
-[]\T1/cmr/m/n/10.95 IBM, ``What are neural networks?'' 2023, see []$https : / /
- www . ibm . com / topics /
+[]\T1/cmr/m/n/10.95 IBM, ``What are neu-ral net-works?'' 2023, see []$https : /
+ / www . ibm . com / topics /
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 86--88
-[]\T1/cmr/m/n/10.95 Geek University, ``Python overview,'' 2022, see []$https : 
-/ / geek-[]university . com /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--93
-[]\T1/cmr/m/n/10.95 Olha Bahaieva, ``Top 7 reasons why you need to learn python
-
+Underfull \hbox (badness 4120) in paragraph at lines 86--88
+[]\T1/cmr/m/n/10.95 Geek Uni-ver-sity, ``Python overview,'' 2022, see []$https 
+: / / geek-[]university . com /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 90--93
-\T1/cmr/m/n/10.95 as a data scientist,'' 2020, see []$https : / / towardsdatasc
-ience . com /
+[]\T1/cmr/m/n/10.95 Olha Ba-haieva, ``Top 7 rea-sons why you need to learn pyth
+on
  []
 
-[21
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
+\T1/cmr/m/n/10.95 as a data sci-en-tist,'' 2020, see []$https : / / towardsdata
+science . com /
+ []
+
+[26
 
 ]
 Underfull \hbox (badness 4505) in paragraph at lines 95--98
-[]\T1/cmr/m/n/10.95 Javin Paul, ``Top 5 reasons to learn python for data scienc
-e, machine
+[]\T1/cmr/m/n/10.95 Javin Paul, ``Top 5 rea-sons to learn python for data sci-e
+nce, ma-chine
  []
 
 
 Underfull \hbox (badness 2556) in paragraph at lines 95--98
-\T1/cmr/m/n/10.95 learning , and ai in 2023?'' 2021, see []$https : / / medium 
-. com / javarevisited /
+\T1/cmr/m/n/10.95 learn-ing , and ai in 2023?'' 2021, see []$https : / / medium
+ . com / javarevisited /
  []
 
 
-Underfull \hbox (badness 5711) in paragraph at lines 112--115
-[]\T1/cmr/m/n/10.95 Yuliya Shaptunova, ``Tableau software review: Pros and cons
- of a bi
+Underfull \hbox (badness 2126) in paragraph at lines 112--115
+[]\T1/cmr/m/n/10.95 Yuliya Shap-tunova, ``Tableau soft-ware re-view: Pros and c
+ons of a bi so-
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 112--115
+\T1/cmr/m/n/10.95 lu-tion for data vi-su-al-iza-tion,'' 2023, see []$https : / 
+/ www . sam-[]solutions . com / blog /
  []
 
 
@@ -836,261 +814,104 @@ latform ,[] ways % 20you %
  []
 
 
-Underfull \hbox (badness 3690) in paragraph at lines 129--132
-[]\T1/cmr/m/n/10.95 Lucid Content Team, ``8 reasons why lucidchart is the perfe
-ct microsoft
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
+[]\T1/cmr/m/n/10.95 Lucid Con-tent Team, ``What is a git fork? mean-ing, def-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 129--132
-\T1/cmr/m/n/10.95 visio\TS1/cmr/m/n/10.95 ^^ae \T1/cmr/m/n/10.95 replacement,''
- ????, see []$https : / / www . lucidchart . com / blog /
- []
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.138 ------, ``git_
-                    rebase,'' 2023, see
-? k
-Type <return> to proceed, S to scroll future error messages,
-R to run without stopping, Q to run quietly,
-I to insert something, E to edit your file,
-1 or ... or 9 to ignore the next 1 to 9 tokens of input,
-H for help, X to quit.
-? S
-OK, entering \scrollmode...
-
-! LaTeX Error: Command $ invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Undefined control sequence.
-\Url@FormatString ...ndafter \UrlLeft \Url@String 
-                                                  \UrlRight \m@th $
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra }, or forgotten $.
-<recently read> }
-                 
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra \endgroup.
-\Hy@endcolorlink ->\endgroup 
-                             
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
-
-! Extra \endgroup.
-\hyper@linkurl ...ce@end \close@pdflink \endgroup 
-                                                  
-l.139 ...t/tutorials/rewriting-history/git-rebase}
-                                                  .
-Things are pretty mixed up, but I think the worst is over.
-
-
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.141 \bibitem{ignore}
-                      
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.141 \bibitem{ignore}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.141 \bibitem{ignore}
-                      
-I'm forgetting what you said and using zero instead.
-
-
-Overfull \hbox (17.439pt too wide) in paragraph at lines 142--144
-[]\T1/cmr/m/n/10.95 ------, ``gitignore,'' 2023, see []$\T1/cmtt/m/n/10.95 http
-s : / / www . atlassian . com / git / tutorials / saving-[]changes /
+\T1/cmr/m/n/10.95 i-ni-tion and a git fork ex-am-ple,'' 2023, see []$https : / 
+/ www .
  []
 
 
-! LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.145 \bibitem{footnotes}
-                         
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-<argument> \@listctr 
-                     
-l.145 \bibitem{footnotes}
-                         
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! You can't use `\relax' after \the.
-<recently read> \c@ 
-                    
-l.145 \bibitem{footnotes}
-                         
-I'm forgetting what you said and using zero instead.
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
+\T1/cmr/m/n/10.95 theserverside . com / blog / Co^^[ee-[]Talk-[]Java-[]News-[]S
+tories-[]and-[]Opinions /
+ []
 
 
-! LaTeX Error: \begin{document} ended by \end{thebibliography}.
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
+\T1/cmr/m/n/10.95 command-[]line-[]GitHub-[]fork-[]CLI-[]terminal-[]shell# : ~ 
+: text = Git % 20Fork % 20De^^\nition ,[]
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.149 \end{thebibliography}
-                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.149 \end{thebibliography}
-                           
-Things are pretty mixed up, but I think the worst is over.
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+[]\T1/cmr/m/n/10.95 ------, ``git re-base,'' 2023, see []$https : / / www . atl
+assian . com / git / tutorials /
+ []
 
-) [22] (INFO1111_Group_Project.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+[]\T1/cmr/m/n/10.95 The Server Side, ``8 rea-sons why lu-cid-chart is the per-f
+ect mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
+\T1/cmr/m/n/10.95 crosoft vi-sio re-place-ment,'' ????, see []$https : / / www 
+. lucidchart . com / blog /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+[]\T1/cmr/m/n/10.95 Soulaiman Ghanem, ``Github repos-i-tory struc-ture best pra
+c-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
+\T1/cmr/m/n/10.95 tices,'' 2021, see []$https : / / medium . com / code-[]facto
+ry-[]berlin /
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[27])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.0pt}.
+
+[28] (./INFO1111_Group_Project.aux)
 Package rerunfilecheck Info: File `INFO1111_Group_Project.out' has not changed.
 
 (rerunfilecheck)             Checksum: 44C7CC25AEDAAD82ABF7F95B517E867B;5841.
  ) 
 Here is how much of TeX's memory you used:
- 11260 strings out of 478278
- 187858 string characters out of 5837404
- 1865346 words of memory out of 5000000
- 31182 multiletter control sequences out of 15000+600000
- 526523 words of font info for 59 fonts, out of 8000000 for 9000
- 0 hyphenation exceptions out of 8191
- 75i,8n,76p,1752b,581s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/l
-jfour/jknappen/ec/dpi600/ecrm0900.pk> </Users/tobitlouis/Library/Application Su
-pport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0600.pk> </User
-s/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jkn
-appen/ec/dpi600/ecbx0800.pk> </Users/tobitlouis/Library/Application Support/MiK
-TeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/ectt1000.pk> </Users/tobitlo
-uis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/
-dpi657/tcrm1000.pk> </Users/tobitlouis/Library/Application Support/MiKTeX/texmf
-s/data/fonts/pk/ljfour/jknappen/ec/dpi657/ecti1000.pk> </Users/tobitlouis/Libra
-ry/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ec
-rm0800.pk> </Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fo
-nts/pk/ljfour/jknappen/ec/dpi650/ecbx1200.pk> </Users/tobitlouis/Library/Applic
-ation Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi750/ecbx1200.pk
-> </Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/lj
-four/jknappen/ec/dpi1244/ecbx1200.pk> </Users/tobitlouis/Library/Application Su
-pport/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi657/ecrm1000.pk> </User
-s/tobitlouis/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jkn
-appen/ec/dpi657/ecbx1000.pk> </Users/tobitlouis/Library/Application Support/MiK
-TeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi1037/ecbx1200.pk></Users/tobitlo
-uis/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb></Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/i
-nstall/fonts/type1/public/amsfonts/cm/cmmi8.pfb></Users/tobitlouis/Library/Appl
-ication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-</Users/tobitlouis/Library/Application Support/MiKTeX/texmfs/install/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb></Users/tobitlouis/Library/Application Support/
-MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on INFO1111_Group_Project.pdf (23 pages, 611400 bytes).
+ 11387 strings out of 476025
+ 185810 string characters out of 5790017
+ 1870388 words of memory out of 5000000
+ 31564 multiletter control sequences out of 15000+600000
+ 528106 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,11n,76p,1746b,590s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></u
+sr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr
+/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local
+/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/t
+exlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/tex
+live/2023/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on INFO1111_Group_Project.pdf (29 pages, 1808915 bytes).
 PDF statistics:
- 867 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 561 PDF objects out of 1000 (max. 8388607)
+ 467 compressed objects within 5 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 

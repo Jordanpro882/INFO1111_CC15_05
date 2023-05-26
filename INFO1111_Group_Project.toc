@@ -30,9 +30,15 @@
 \contentsline {subsubsection}{\LaTeX \ : Creating New Environments}{18}{subsubsection*.12}%
 \contentsline {subsection}{\numberline {4.2.}Advanced skills: {LOUIS, Tobit}}{19}{subsection.0.4.2}%
 \contentsline {subsection}{\numberline {4.3.}Advanced skills: {TRAN, Jordan}}{19}{subsection.0.4.3}%
-\contentsline {subsection}{\numberline {4.4.}Advanced skills: {DANG, Chloe}}{19}{subsection.0.4.4}%
-\contentsline {section}{\numberline {5.}Level D: Evolution of skills}{20}{section.0.5}%
-\contentsline {subsection}{\numberline {5.1.}Evolution of {Computer Science}: {BLIGHT, Matthew}}{20}{subsection.0.5.1}%
-\contentsline {subsection}{\numberline {5.2.}Evolution of {Data Science}: {LOUIS, Tobit}}{20}{subsection.0.5.2}%
-\contentsline {subsection}{\numberline {5.3.}Evolution of {SW Development}: {TRAN, Jordan}}{20}{subsection.0.5.3}%
-\contentsline {subsection}{\numberline {5.4.}Evolution of {Cyber Security}: {DANG, Chloe}}{20}{subsection.0.5.4}%
+\contentsline {subsubsection}{Git: Forking}{19}{subsubsection*.13}%
+\contentsline {subsubsection}{Git: Special File}{19}{subsubsection*.14}%
+\contentsline {subsubsection}{.gitignore files \cite {pluralsight}:}{19}{subsubsection*.15}%
+\contentsline {subsubsection}{.gitattribute files\cite {codepath}}{21}{subsubsection*.16}%
+\contentsline {subsubsection}{LaTeX: Floating Figures\cite {WikiBooks}}{23}{subsubsection*.17}%
+\contentsline {subsubsection}{LaTeX: Editing Style Sheets \cite {stylesheets}}{23}{subsubsection*.18}%
+\contentsline {subsection}{\numberline {4.4.}Advanced skills: {DANG, Chloe}}{24}{subsection.0.4.4}%
+\contentsline {section}{\numberline {5.}Level D: Evolution of skills}{25}{section.0.5}%
+\contentsline {subsection}{\numberline {5.1.}Evolution of {Computer Science}: {BLIGHT, Matthew}}{25}{subsection.0.5.1}%
+\contentsline {subsection}{\numberline {5.2.}Evolution of {Data Science}: {LOUIS, Tobit}}{25}{subsection.0.5.2}%
+\contentsline {subsection}{\numberline {5.3.}Evolution of {SW Development}: {TRAN, Jordan}}{25}{subsection.0.5.3}%
+\contentsline {subsection}{\numberline {5.4.}Evolution of {Cyber Security}: {DANG, Chloe}}{25}{subsection.0.5.4}%
