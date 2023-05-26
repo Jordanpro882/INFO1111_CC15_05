@@ -82,16 +82,64 @@ Simplilearn, ``Tensorflow tutorial: Your gateway to building machine learning
   models,'' 2023, see
   \url{https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow}.
 
+\bibitem{geek}
+{Geek University}, ``Python overview,'' 2022, see
+  \url{https://geek-university.com/python-overview/}.
+
+\bibitem{python1}
+{Olha Bahaieva}, ``Top 7 reasons why you need to learn python as a data
+  scientist,'' 2020, see
+  \url{https://towardsdatascience.com/top-10-reasons-why-you-need-to-learn-python-as-a-data-scientist-e3d26539ec00}.
+
+\bibitem{python2}
+{Javin Paul}, ``Top 5 reasons to learn python for data science, machine
+  learning , and ai in 2023?'' 2021, see
+  \url{https://medium.com/javarevisited/5-reasons-to-learn-python-for-data-science-16a9d4c44d6d}.
+
+\bibitem{python3}
+{Jeff Novotny}, ``The pros and cons of python programming,'' 2023, see
+  \url{https://www.linode.com/docs/guides/pros-and-cons-of-python/}.
+
+\bibitem{tableau}
+{Tableau}, ``What is tableau?'' ????, see
+  \url{https://www.tableau.com/why-tableau/what-is-tableau}.
+
+\bibitem{tableau1}
+{Jack Wallen}, ``How to use tableau: A guide for beginners,'' 2022, see
+  \url{https://www.techrepublic.com/article/how-to-use-tableau/}.
+
+\bibitem{tableau2}
+{Yuliya Shaptunova}, ``Tableau software review: Pros and cons of a bi solution
+  for data visualization,'' 2023, see
+  \url{https://www.sam-solutions.com/blog/tableau-software-review-pros-and-cons-of-a-bi-solution-for-data-visualization/}.
+
+\bibitem{infoworld}
+{Serdar Yegulalp}, ``Why you should use docker and containers,'' 2023, see
+  \url{https://www.infoworld.com/article/3310941/why-you-should-use-docker-and-containers.html}.
+
+\bibitem{docker}
+{docker docs}, ``Docker overview,'' ????, see
+  \url{https://docs.docker.com/get-started/overview/#:~:text=Docker%20is%20an%20open%20platform,ways%20you%20manage%20your%20applications.}
+
+\bibitem{linkedin}
+{Danish Jamil}, ``Docker-an overview/pros and cons,'' 2022, see
+  \url{https://www.linkedin.com/pulse/docker-an-overviewpros-cons-danish-jamil/}.
+
+\bibitem{lucidchart}
+{Lucid Content Team}, ``8 reasons why lucidchart is the perfect microsoft
+  visio® replacement,'' ????, see
+  \url{https://www.lucidchart.com/blog/reasons-why-lucidchart-is-the-perfect-microsoft-visio-replacement}.
+
 \bibitem{mergingvrebasing}
 {Atlassian}, ``Merging vs. rebasing,'' 2023, see
   \url{https://www.atlassian.com/git/tutorials/merging-vs-rebasing}.
 
 \bibitem{rebase}
-------, ``git rebase,'' 2023, see
+------, ``git_rebase,'' 2023, see
   \url{https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase}.
 
 \bibitem{ignore}
-------, ``.gitignore,'' 2023, see
+------, ``gitignore,'' 2023, see
   \url{https://www.atlassian.com/git/tutorials/saving-changes/gitignore}.
 
 \bibitem{footnotes}
