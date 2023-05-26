@@ -451,9 +451,96 @@ Explain your use of the advanced Git and \LaTeX\ features.
 
 Explain your use of Git Forking and Special files and \LaTeX\ Floating Figures and Styling Sheets
 
+\subsubsection{Git: Forking}
+
+git forking doesn't have a specific command, but instead involves using the command line to clone the existing repository and disconnecting the codebase from previous committers using subcommand gh repo fork.  The steps to forking a git repository is to copy the git repo by cloning it to a new folder and removing any remote references to isolate the fork from the original codebase.  \cite{gitfork}  For example,  check an existing empty repository for its contents:
+
+\includegraphics[width=\textwidth]{empty_fork}
+
+Now clone the the existing repository into the empty directory using the command line git clone 
+
+\includegraphics[width=\textwidth]{cloning}
+
+Now check the contents of the new repository to see if original has been forked:
+
+\includegraphics[width=\textwidth]{fork_repo}
+
+Git forking is common practice allowing developers to propose and experiment with bugs without messing up the original repository so that once they are satisfied with the outcomes,  they can submit a pull request to the original repository for a potential inclusion of the updated and experimented code. 
+
+\subsubsection{Git: Special File}
+
+Git Special Files are files that have specific properties and purposes within Git and are often used to customise the behaviour and configuration of the repository enhancing collaboration and workflows through git. There are 4 commonly recognised special files in git being .gitignore .gitattributes .gitmodules and .gitkeep \cite {medium} . 
+
+\subsubsection{.gitignore files \cite{pluralsight}:}
+
+When committing there may be files that developers might not want to commit, so they use the .gitignore special so that it lets git knows that these files shouldn't be added to the repository and ignore them. For example you set a .gitignore file by using the command lines:
+
+\includegraphics[width=\textwidth]{create_gitignore}
+
+now type in 'open .gitignore' into the command line to open the special file and then write the file/directory name that you want to avoid committing into the git repository
+
+\includegraphics[width=\textwidth]{ignore_contents}
+
+Now make a new commit called git add .gitignore to add the contents of gitignore to the git repository and push it so that in the future it will now know what to avoid adding.
+
+\includegraphics[width=\textwidth]{ignore_push}
+
+\subsubsection{.gitattribute files\cite{codepath}}
+
+The gitattributes file is a useful special file that alters the configuration of git repositories. For instance, it tells git how to treat certain files and projects.  For instance, the command *.pbxproj binary merge=union sets projects to binary so that git will treat them as binary and avoid merging them with other text files.  Creating a gitattributes file and checking its existence goes as:
+
+\includegraphics[width=\textwidth]{create_gitattributes}
+
+Now open gitattributes file and add contents:
+
+\includegraphics[width=\textwidth]{gitattributes_contents}
+
+Then push the .gitattribute file into the directory
+
+\includegraphics[width=\textwidth]{add_gitattributes}
+
+\newpage
+
+\subsubsection{LaTeX: Floating Figures\cite{WikiBooks}}
+
+Floating figures are useful features in LaTeX that are not part of the normal stream of text, but are seperate entities positioned anywhere on the page that the user describes hence the name, 'float.' There are multiple specifiers that all have different properties for the inputted entity.
+
+\includegraphics[width=\textwidth]{float_table}
+
+The syntax to applying a floating figure is <{figure}[placement specifier]>.
+
+Floats can be specifically useful in which if a figure causes the figure to run off into a new page and breaking the current page,  you can use floats to avoid this issue.  If you scroll down to the bottom of the current page and top of the next page,  you will see a floating figure that has the placement specifier being set as 'b'.
+
 \begin{figure}[b]
-The floating figure
+...bottom floating figure here! ...
+The main advantage of using floats is to avoid wasting large empty spaces due to a table or image not fitting.
 \end{figure}
+
+\begin{figure}[t ]
+...top floating figure here! ...
+Users would commonly use this if there is not enough space to fit the remainder of the current page and would float this figure to the next and will the current page with body text.
+\end{figure}
+
+\subsubsection{LaTeX: Editing Style Sheets \cite{stylesheets}}
+\pagestyle{fancy}
+Style sheets in LaTeX typically refer to style files or packages that contain predefined formatting instructions that shape the appearance and layout of a LaTeX document.  Editing style sheets allow precise control over the visual representation of the LaTeX documents and can greatly enhance readability.  Style packages usually have an extension .sty and are included in LaTeX through the syntax <usepackage>.
+
+Examples:
+
+Using one of the predefined packages in this report, 'fancyhdr' I have already adjusted the layout of this page using the syntax <pagestyle[fancy]> to give a professional look to my report.  Moreover, I can include extra footers into the pages as seen at the bottom of this page to the left and right.  Moreover, at the top with the included header for the fancy layout, I have also added in a header using the syntax <fancyhead[C]large-text>
+
+\fancyhead[C]{\large HEADER!!!}
+
+\lfoot{left footer}
+
+\rfoot{right footer}
+
+\newpage
+
+\lfoot{}
+\rfoot{}
+
+\pagestyle{fancy}
 
 \subsection{Advanced skills: \studD}
 
@@ -464,6 +551,7 @@ Explain your use of the advanced Git and \LaTeX\ features.
 %=======================================================================================
 
 \newpage
+
 \section{Level D: Evolution of skills}
 
 Level D focuses on understanding how professional practice might evolve in the future. Most students in this unit are likely to be at or near the start of your degree, and so it might be anywhere from 3 to 5 years before you really start working in industry full-time -- and the technology and ways in which people use them can change significantly in that time. 
